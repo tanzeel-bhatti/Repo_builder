@@ -1,0 +1,11 @@
+0	0.104	dialog (44) event (35) table (27) model (23) med (22) action (21) win (17) save (16) adaptator (16) connexion (15) 
+1	0.076	moscovite (33) poids (18) qui (15) les (15) nombre (11) roi (10) etat (9) plateau (8) pion (7) debut (6) 
+2	0.237	piece (94) sue (59) moscovite (40) equipe (33) vide (26) roi (20) plateau (20) type (14) add (6) taille (5) 
+3	0.104	animation (32) attente (25) test (21) dessin (20) titre (14) aire (14) l'animation (11) component (8) adaptateur (7) version (6) 
+4	0.093	distant (24) chat (18) msg (15) packet (14) serveur (14) message (14) receive (12) control (11) socket (9) jeu (9) 
+5	0.108	client (31) partie (19) error (18) pseu (15) party (13) lvl (11) tablut (11) base (10) user (10) sur (10) 
+6	0.116	oueur (32) niveau (28) auto-generated (20) method (19) experience (18) stub (18) pion (17) pseu (17) souris (16) courant (15) 
+7	0.013	pion (33) peut (20) monojoueur (11) une (11) adverse (10) bouffer (8) les (8) permet (7) pendant (7) l'adversaire (7) 
+8	0.093	image (18) img (17) interfaceeu (12) png (12) konakis (12) bord (12) angle (12) plateau (10) dessin (10) buffered (9) 
+9	0.056	joueur (42) pas (40) est (34) moteur (28) niveau (25) coup (24) roi (24) soldat (21) placement (21) interfaceoueur (21) 
+0	0.9618955426783355
